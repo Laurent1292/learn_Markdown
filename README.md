@@ -44,3 +44,15 @@ Lien vers un autre fichier [Vers test.md](test.md).
 Pour trouver la liste des emojis disponible avec GitHub: [Liste des emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 
 c'est super fun Git et GitHub :rofl:  
+
+# Listes
+
+## Liste Simple (non ordonnée)
+* Element A  
+* Element B  
+* Element C
+
+## Liste Ordonnées
+1. Carottes  
+2. Choux  
+3. Lentilles
