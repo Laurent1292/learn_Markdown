@@ -33,4 +33,8 @@ git commit -m  "Nom du commit"
 # Lien URL
 
 Pour aller sur mon site: [google](https://google.com).   
-Lien vers un autre fichier [Vers test.md](test.md).
+Lien vers un autre fichier [Vers test.md](test.md).   
+
+# Ajouter une image
+
+![Logo](https://codabee.com/wp-content/uploads/2022/04/logo_white.png).
