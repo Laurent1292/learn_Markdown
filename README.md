@@ -37,4 +37,4 @@ Lien vers un autre fichier [Vers test.md](test.md).
 
 # Ajouter une image
 
-![Logo](https://codabee.com/wp-content/uploads/2022/04/logo_white.png).
+![Logo](https://www.google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png).
