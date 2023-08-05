@@ -37,4 +37,10 @@ Lien vers un autre fichier [Vers test.md](test.md).
 
 # Ajouter une image
 
-![Logo](https://www.google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png).
+![Logo](https://www.google.fr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)  
+
+# Ajouter un emoji
+
+Pour trouver la liste des emojis disponible avec GitHub: [Liste des emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+
+c'est super fun Git et GitHub :rofl:  
