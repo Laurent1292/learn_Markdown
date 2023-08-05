@@ -7,7 +7,7 @@
 
 # Styles de Texte
 Texte simple  
-__ Ceci est un texte gras __  
+__Ceci est un texte gras__  
 Noous avons __un texte__ qui est en gras  
 *Texte italique*  
 J'adore *Git et Github*  
