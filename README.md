@@ -7,10 +7,15 @@
 
 # Styles de Texte
 Texte simple  
-__Ceci est un texte gras__  
+**Ceci est un texte gras**  
 Noous avons __un texte__ qui est en gras  
 *Texte italique*  
 J'adore *Git et Github*  
 ~~Oups c'est une erreur~~  
 <sub>Mon texte est plus petit</sub>  
 <sup>Superscript</sup>  
+
+# Citation
+
+> Nous avons ici une citation
+Nous avons imbriqué `une citation` ici
